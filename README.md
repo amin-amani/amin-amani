@@ -15,6 +15,9 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)]()
 
 
-<img src="https://github.com/amin-amani/amin-amani/blob/main/badges/LPI_logo.png" alt="PSM ||" width="150"/> <img src="https://github.com/amin-amani/amin-amani/blob/main/badges/psm1.svg" alt="PSM |" width="150"/> [![PSM ||](https://github.com/amin-amani/amin-amani/blob/main/badges/psm2.svg)](https://www.scrum.org/user/1085787)
+<img src="https://github.com/amin-amani/amin-amani/blob/main/badges/LPI_logo.png" alt="PSM ||" width="150"/> <img src="https://github.com/amin-amani/amin-amani/blob/main/badges/psm1.svg" alt="PSM |" width="150"/> <a href="https://www.scrum.org/user/1085787">
+    <img src="https://github.com/amin-amani/amin-amani/blob/main/badges/psm2.svg" alt="PSM ||" width="150"/>
+</a>
+
 
 
