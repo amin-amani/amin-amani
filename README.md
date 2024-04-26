@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **amin-amani/amin-amani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+[![devops-essentials 2](https://github.com/kalagar/kalagar/assets/6311592/f44239a7-223f-4a6b-b0e3-b3edcadf3aaa)](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000578930/dn6g693x2v)
+
