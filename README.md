@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 [![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)]()
 [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)]()
-[![Embedded Linux](https://github.com/kalagar/kalagar/blob/main/assets/6311592/embedded-linux-badge.png)](https://www.example.com/embedded-linux-badge)
+
 
 <img src="https://github.com/amin-amani/amin-amani/blob/main/badges/LPI_logo.png" alt="PSM ||" width="150"/> <img src="https://github.com/amin-amani/amin-amani/blob/main/badges/psm1.svg" alt="PSM |" width="150"/> <img src="https://github.com/amin-amani/amin-amani/blob/main/badges/psm2.svg" alt="PSM ||" width="150"/>
 
