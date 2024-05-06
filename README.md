@@ -4,7 +4,7 @@
 ⚡  I'm so into C++ and linux!
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/kalagar](https://www.linkedin.com/in/amin-amani)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/amin-amani](https://www.linkedin.com/in/amin-amani)) 
 
 ### 💻 Tech Stack:
 
